@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BoomLikeView">
+        <attr name="src" format="color|reference"/>
+        <attr name="fireworkColor" format="color|reference"/>
+        <attr name="srcAnimTime" format="integer"/>
+        <attr name="fireworkAnimTime" format="integer"/>
+        <attr name="text" format="string"/>
+        <attr name="textColor" format="color|reference"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textPadding" format="dimension"/>
+    </declare-styleable>
+</resources>
